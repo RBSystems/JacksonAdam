@@ -1,0 +1,3 @@
+Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.mscorlib   at System.Reflection.Module._GetTypesInternal(StackCrawlMark& stackMark)
+   at System.Reflection.Module.GetTypes()
+   at NVRamUtility.Program.Main(String[] args)
